@@ -1,0 +1,15 @@
+{
+  "name": "tabimemo",
+  "version": "1.0.0",
+  "description": "A starter theme for Frontity",
+  "keywords": [
+    "frontity",
+    "frontity-theme"
+  ],
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@frontity/components": "^1.8.1",
+    "@frontity/html2react": "^1.6.1",
+    "frontity": "^1.17.0"
+  }
+}

@@ -10,7 +10,7 @@ const settings = {
   },
   "packages": [
     {
-        name: "my-first-theme"
+        name: "tabimemo"
     },
     {
       "name": "@frontity/wp-source",
