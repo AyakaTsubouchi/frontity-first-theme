@@ -27,7 +27,7 @@ const Root = ({ state }) => {
         <br />
         <Link link="/page/2">More posts</Link>
         <br />
-        <Link link="/about-us">About Us</Link>
+        <Link link="/about-us">About Us</Link>d
       </nav>
       </Header>
       <main>
