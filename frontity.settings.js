@@ -2,7 +2,7 @@ const settings = {
   "name": "hello-frontity",
   "state": {
     "frontity": {
-      "url": "http://localhost:8888",
+      "url": "https://portfolio.ayakaru-kininaru.com/",
       // "url": "https://test.frontity.org",
       "title": "Test Frontity Blog",
       "description": "WordPress installation for Frontity development"
@@ -16,7 +16,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "http://localhost:8888"
+          "url": "https://portfolio.ayakaru-kininaru.com/"
           // "url": "https://test.frontity.org"
         }
       }
